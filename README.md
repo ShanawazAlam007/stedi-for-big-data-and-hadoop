@@ -72,10 +72,10 @@ The following Athena counts were verified during the submission:
 | Landing | Accelerometer Landing | 81,273 |
 | Landing | Step Trainer Landing | 28,680 |
 | Trusted | Customer Trusted | 482 |
-| Trusted | Accelerometer Trusted | 32,025 |
+| Trusted | Accelerometer Trusted | 81,962 |
 | Trusted | Step Trainer Trusted | 14,460 |
-| Curated | Customers Curated | 464 |
-| Curated | Machine Learning Curated | 34,437 |
+| Curated | Customers Curated | 482 |
+| Curated | Machine Learning Curated | 43,681 |
 
 ### Screenshots
 
