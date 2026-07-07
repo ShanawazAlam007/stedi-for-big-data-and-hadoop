@@ -117,7 +117,7 @@ Customers Curated Count
 
 Machine Learning Curated Count
 
-![Machine Learning Curated Count](Screenshots/machine_learning_curated_count.png)
+![Machine Learning Curated Count](Screenshots/Machine_learning_curated_count.png)
 
 ### Conclusion
 
