@@ -93,13 +93,13 @@ Accelerometer Landing Count
 
 Step Trainer Landing Count
 
-![Step Trainer Landing Count](Screenshots/step_trainer_landing_count.png)
+![Step Trainer Landing Count](Screenshots/Step_trainer_landing_count.png)
 
 #### Trusted Zone Screenshots
 
 Customer Trusted Count
 
-![Customer Trusted Count](Screenshots/customer_trusted_count.png)
+![Customer Trusted Count](Screenshots/Customer_trusted_count.png)
 
 Accelerometer Trusted Count
 
@@ -107,7 +107,7 @@ Accelerometer Trusted Count
 
 Step Trainer Trusted Count
 
-![Step Trainer Trusted Count](Screenshots/step_trainer_trusted_count.png)
+![Step Trainer Trusted Count](Screenshots/Step_trainer_trusted_count.png)
 
 #### Curated Zone Screenshots
 
