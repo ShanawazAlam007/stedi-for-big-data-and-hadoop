@@ -77,47 +77,47 @@ The following Athena counts were verified during the submission:
 | Curated | Customers Curated | 464 |
 | Curated | Machine Learning Curated | 34,437 |
 
-### Screenshot Placeholders
+### Screenshots
 
-Paste the screenshots into the blank space below each label before exporting or submitting the report.
+The screenshots below are placed next to the corresponding Athena row count sections.
 
 #### Landing Zone Screenshots
 
 Customer Landing Count
 
-[Paste screenshot here]
+![Customer Landing Count](Screenshot/Customer_landing_count.png)
 
 Accelerometer Landing Count
 
-[Paste screenshot here]
+![Accelerometer Landing Count](Screenshot/Accelerometer_landing_count.png)
 
 Step Trainer Landing Count
 
-[Paste screenshot here]
+![Step Trainer Landing Count](Screenshot/step_trainer_landing_count.png)
 
 #### Trusted Zone Screenshots
 
 Customer Trusted Count
 
-[Paste screenshot here]
+![Customer Trusted Count](Screenshot/customer_trusted_count.png)
 
 Accelerometer Trusted Count
 
-[Paste screenshot here]
+![Accelerometer Trusted Count](Screenshot/Accelerometer_trusted_count.png)
 
 Step Trainer Trusted Count
 
-[Paste screenshot here]
+![Step Trainer Trusted Count](Screenshot/step_trainer_trusted_count.png)
 
 #### Curated Zone Screenshots
 
 Customers Curated Count
 
-[Paste screenshot here]
+![Customers Curated Count](Screenshot/Customer_curated_count.png)
 
 Machine Learning Curated Count
 
-[Paste screenshot here]
+![Machine Learning Curated Count](Screenshot/machine_learning_curated_count.png)
 
 ### Conclusion
 
