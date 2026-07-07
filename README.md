@@ -64,7 +64,7 @@ Each Glue script includes a basic validation rule set with `ColumnCount > 0`. Th
 
 ### Row Count Verification
 
-The following Athena counts were verified during the submission:
+The following Athena counts were verified from the screenshots in the Screenshots folder:
 
 | Zone | Table | Count |
 | :--- | :--- | :---: |
@@ -72,52 +72,52 @@ The following Athena counts were verified during the submission:
 | Landing | Accelerometer Landing | 81,273 |
 | Landing | Step Trainer Landing | 28,680 |
 | Trusted | Customer Trusted | 482 |
-| Trusted | Accelerometer Trusted | 81,962 |
+| Trusted | Accelerometer Trusted | 40,981 |
 | Trusted | Step Trainer Trusted | 14,460 |
 | Curated | Customers Curated | 482 |
 | Curated | Machine Learning Curated | 43,681 |
 
 ### Screenshots
 
-The screenshots below are placed next to the corresponding Athena row count sections.
+The screenshots below are placed next to the corresponding Athena row count sections in the Screenshots folder.
 
 #### Landing Zone Screenshots
 
 Customer Landing Count
 
-![Customer Landing Count](Screenshot/Customer_landing_count.png)
+![Customer Landing Count](Screenshots/Customer_landing_count.jpeg)
 
 Accelerometer Landing Count
 
-![Accelerometer Landing Count](Screenshot/Accelerometer_landing_count.png)
+![Accelerometer Landing Count](Screenshots/Accelerometer_landing_count.png)
 
 Step Trainer Landing Count
 
-![Step Trainer Landing Count](Screenshot/step_trainer_landing_count.png)
+![Step Trainer Landing Count](Screenshots/step_trainer_landing_count.png)
 
 #### Trusted Zone Screenshots
 
 Customer Trusted Count
 
-![Customer Trusted Count](Screenshot/customer_trusted_count.png)
+![Customer Trusted Count](Screenshots/customer_trusted_count.png)
 
 Accelerometer Trusted Count
 
-![Accelerometer Trusted Count](Screenshot/Accelerometer_trusted_count.png)
+![Accelerometer Trusted Count](Screenshots/Accelerometer_trusted_count.png)
 
 Step Trainer Trusted Count
 
-![Step Trainer Trusted Count](Screenshot/step_trainer_trusted_count.png)
+![Step Trainer Trusted Count](Screenshots/step_trainer_trusted_count.png)
 
 #### Curated Zone Screenshots
 
 Customers Curated Count
 
-![Customers Curated Count](Screenshot/Customer_curated_count.png)
+![Customers Curated Count](Screenshots/Customer_curated_count.png)
 
 Machine Learning Curated Count
 
-![Machine Learning Curated Count](Screenshot/machine_learning_curated_count.png)
+![Machine Learning Curated Count](Screenshots/machine_learning_curated_count.png)
 
 ### Conclusion
 
